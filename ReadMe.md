@@ -95,4 +95,9 @@ curl -X POST https://example.com/wp-json/wc/v3/products \
 ```
 - do the same in post man
 - now we get new created product from api
-
+# Now we have to create out flutter project
+- [flutter](https://flutter.dev/) is related with the drawing widgets while its logics is based on [dart](https://dart.dev/) language
+- ti install flutter on the windows local machine we have to download flutter sdk first it is better to clone the stable version in the required path such is in c `git clone https://github.com/flutter/flutter.git -b stable`
+- in the environment variable path add `C:\flutter\bin\`
+- install android studio for using its virtual sdk mobiles
+- 
