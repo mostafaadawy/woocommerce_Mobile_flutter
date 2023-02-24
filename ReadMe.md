@@ -53,4 +53,16 @@ actually this is two projects as follows:
     - then in legacy Api and check for Enable the legacy REST API
     - save 
 - now we can use these keys for our api and to use the woocommerce api check [woocommerce rest apis](https://woocommerce.github.io/woocommerce-rest-api-docs/#)
+- for example in apis for listing all product 
+- copy curl
+```sh
+curl https://example.com/wp-json/wc/v3/products \
+    -u consumer_key:consumer_secret
+```
+- in post man import and in raw text past 
+- then next then save in collection
+- replace the example path by our bas url as mentioned before `http://localhost/woocommerce_Mobile_flutter/wordpress/wp-json/wc/v3/products` 
+- in authentication select `OAUTH 1.0` in consumer_key past our key and same for secret
+- now try it should work
 - 
+
