@@ -36,3 +36,4 @@ actually this is two projects as follows:
 - then log with credentials 
 - now this will be the link `http://localhost/woocommerce_Mobile_flutter/wordpress/wp-admin/`
 # Note base url is `http://localhost/woocommerce_Mobile_flutter/wordpress/` which will be changed in case of copy this folder in other path
+- remove unwanted plugins
