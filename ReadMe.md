@@ -38,3 +38,8 @@ actually this is two projects as follows:
 # Note base url is `http://localhost/woocommerce_Mobile_flutter/wordpress/` which will be changed in case of copy this folder in other path
 - remove unwanted plugins
 - installing woocommerce plugin and activate it
+- set the information required for the app
+- select country address and kind of products
+- do not add recommended plugins unless we need
+- select suitable theme storefront for example
+- 
