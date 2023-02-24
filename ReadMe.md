@@ -43,4 +43,14 @@ actually this is two projects as follows:
 - do not add recommended plugins unless we need
 - select suitable theme storefront for example
 - now we will add some products it is easy process and we can get help of youtube tutorials if needed
+- preparing rest api for woocommerce as follows
+    - from general settings permaLinks select any option `except plain` in structure just as `post name`
+    - and default permalink
+    - save changes
+    - from woocommerce settings advanced then RESTAPI create api keys to be used as credentials
+    - generate key with description and user and permissions
+    - copy `consumer_key=ck_0715b1694e75647f7a6155ac191ba1f0becfe6bf` and its secret `consumer_secret=cs_c3aaa59816e3e3a0728616ad3e90a84159988527`
+    - then in legacy Api and check for Enable the legacy REST API
+    - save 
+- now we can use these keys for our api and to use the woocommerce api check [woocommerce rest apis](https://woocommerce.github.io/woocommerce-rest-api-docs/#)
 - 
