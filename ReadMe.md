@@ -42,4 +42,5 @@ actually this is two projects as follows:
 - select country address and kind of products
 - do not add recommended plugins unless we need
 - select suitable theme storefront for example
+- now we will add some products it is easy process and we can get help of youtube tutorials if needed
 - 
